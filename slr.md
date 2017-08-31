@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Mehmet
 
-**Voornaam:** Jeroen
+**Voornaam:** Mehmet
 
-**Achternaam:** Slemmer
+**Achternaam:** Batur
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
+**E-mail adres:** [99028328@mydavinci.nl](Mehmet Batur)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0640134878
